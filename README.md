@@ -2,6 +2,8 @@
 
 this is a storefront app that allows customers to input an order for an item. 
 
+uses npms mysql and inquirer
+
 products are listed in an sql database
 
 When that order is confirmed, the stock_quantity for the item ordered is updated;
