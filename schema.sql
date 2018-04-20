@@ -11,7 +11,7 @@ create table products (
     price integer (20) not null,
     stock_quantity integer (20) not null,
     primary key (item_id)
-)
+);
 
 insert into products (product_name, department_name, price, stock_quantity) 
 values ('television', 'electronics', 500, 20);

@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "storefront app to take orders and deplete stock from inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanStraw/bamazon.git"
+  },
+  "author": "DRS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanStraw/bamazon/issues"
+  },
+  "homepage": "https://github.com/DanStraw/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
