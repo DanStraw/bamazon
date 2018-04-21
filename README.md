@@ -12,3 +12,5 @@ If the current stock is insufficient to fulfill the customer's order, they are i
 the quantity available and prompted to re-enter the order
 
 Video tutorial: https://drive.google.com/file/d/1f3rgFVOy64K0pplL4uPNTcamuuYbutx3/view
+
+Find files here: https://github.com/DanStraw/bamazon
